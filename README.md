@@ -25,6 +25,6 @@ This is a Laravel 12 project serving as a backend API for a separate React front
 ```bash
 # run this in cmd
 git clone -b main https://github.com/AlfredoSantos20/laravel-template.git
-cd your-laravel-api
+
 
 
